@@ -15,6 +15,12 @@ ESP32 + Simulink controlled espresso system, designed from boiler to board.
 🔹 [Static Mixer CFD Optimisation](https://github.com/hadou7/static-mixer-cfd)<br>
 Group design, business and CFD performance validation of novel static micro-mixers using ANSYS Fluent.
 
+🔹 [Merlin: Voice-Driven Smart Assistant](https://github.com/hadou7/merlin)<br>
+RaspberryPi-powered home assistant that uses online and offline GPT conversation memory, interfacing with home devices.
+
+🔹 [Morgana: Modular Coffee Machine](https://github.com/hadou7/morgana)<br>
+Smart Coffee Machine built from the ground-up, custom boiler, steamer and intelligent brew profiling.
+
 ## ⚙️ Skills
 
 **Simulation**: Abaqus, ANSYS Fluent/CFX, MATLAB, Python  
