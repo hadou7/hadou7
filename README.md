@@ -1,16 +1,37 @@
-## Hi there 👋
+# 👋 Hi, I'm Hadi Moali
 
-<!--
-**hadou7/hadou7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Final Year Mechanical Engineering Student at the University of Bath, specialising in **R&D, simulation, and mechatronic system design**.  
+My work combines **FEA**, **CFD**, and **embedded systems** to build advanced physical systems—  
+from smart coffee machines to thermally-enhanced manufacturing solutions.
 
-Here are some ideas to get you started:
+🎓 MEng Mechanical Engineering – University of Bath  
+🏅 Shortlisted for Geoff Herrington Innovation Award 2025  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔧 My Projects
+
+- 🛠️ [Thermally & Vibrationally Enhanced Machining](https://github.com/hadou7/thermo-vibration-machining)  
+  Abaqus-based cutting simulation and experimental CNC validation
+
+- ☕ [Morgana: Coffee Machine (In Progress)](https://github.com/hadou7/modular-coffee-machine)  
+  ESP32-controlled modular espresso system with Simulink-driven logic
+
+- 🌪️ [Static Mixer CFD Optimisation](https://github.com/hadou7/static-mixer-cfd)  
+  Group business and design project on novel static mixing geometry using Fluent
+
+---
+
+## ⚙️ Skills
+
+**Simulation**: Abaqus, ANSYS Fluent/CFX, MATLAB, Python  
+**Design**: Inventor, AutoCAD, Siemens NX  
+**Embedded Systems**: Arduino, Simulink, KiCad  
+**Control**: PID, thermal logic, multi-physics modelling  
+
+---
+
+## 🌐 Website & Contact
+
+📫 am3696@bath.ac.uk  
+🌍 [Portfolio Website](https://hadou.io)  
