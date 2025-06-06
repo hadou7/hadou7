@@ -9,9 +9,6 @@ I'm a Final Year Mechanical Engineering Student at the University of Bath, speci
 🔹 [Thermally & Vibrationally Enhanced Machining](https://github.com/hadou7/thermally-vibrationally-enhanced-machining)<br>
 Hybrid machining model using Abaqus Explicit + CNC validation. Shortlisted for Geoff Herrington Innovation Medal.
 
-🔹 [Modular Coffee Machine (Morgana)](https://github.com/hadou7/modular-coffee-machine)<br>
-ESP32 + Simulink controlled espresso system, designed from boiler to board.
-
 🔹 [Static Mixer CFD Optimisation](https://github.com/hadou7/static-mixer-cfd)<br>
 Group design, business and CFD performance validation of novel static micro-mixers using ANSYS Fluent.
 
